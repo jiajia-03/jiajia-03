@@ -16,4 +16,4 @@
 ![曾庆佳's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiajia-03&show_icons=true&theme=radical)
 
 ### 🔥 最常用语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajia-03&layout=compact&theme=radical)
+![C++](https://github-readme-stats.vercel.app/api/top-langs/?username=jiajia-03&layout=compact&theme=radical)
