@@ -1,10 +1,11 @@
 # 👋 Hi, I'm 曾庆佳
 
 ### 🚀 关于我
-- 🌱 正在学习：C++ / 网络编程 / 图形编程
-- 💻 常用技术：C++、OpenGL、SFML、Asio、OpenCV
-- 🎯 方向：后端开发 / 游戏开发 / 图形学
-- 📫 联系我：你的邮箱
+- 🌱 正在学习：C++ / 网络编程 / 图形编程 /音视频处理
+- 💻 常用技术：C++、OpenGL、SFML、Asio、OpenCV、ffmpeg
+- 🎯 方向：后端开发 / 音视频
+- 📫 联系我：1824498926@qq.com
+- 
 
 ### 🛠 技能栈
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
